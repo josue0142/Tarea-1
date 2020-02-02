@@ -1,0 +1,23 @@
+﻿
+@{
+    ViewData["Title"] = "CalculateZodiacSign";
+}
+
+<h1>Calcular Signo Zodiacal</h1>
+
+<div>
+    <form action="CalculateZodiacSign" method="post">
+
+        <label for="date">Seleccione su fecha de nacimiento</label>
+        <input type="date" id="date" class="form-control" />
+        <hr />
+        <button type="submit" class="btn btn-primary">Calcular</button>
+
+    </form>
+    <hr />
+    <label class="alert-danger">
+        @ViewBag.resultado
+    </label>
+</div>
+
+
