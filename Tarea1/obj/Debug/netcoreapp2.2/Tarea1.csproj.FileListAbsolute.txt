@@ -30,3 +30,5 @@ C:\Users\eljos\source\repos\Tarea1\Tarea1\obj\Debug\netcoreapp2.2\Tarea1.dll
 C:\Users\eljos\source\repos\Tarea1\Tarea1\obj\Debug\netcoreapp2.2\Tarea1.pdb
 C:\Users\eljos\source\repos\Tarea1\Tarea1\obj\Debug\netcoreapp2.2\Tarea1.csproj.CopyComplete
 C:\Users\eljos\source\repos\Tarea1\Tarea1\obj\Debug\netcoreapp2.2\Razor\Views\SignoZodiacal\CalculateZodiacSign.cshtml.g.cs
+C:\Users\eljos\source\repos\Tarea1\Tarea1\obj\Debug\netcoreapp2.2\Razor\Views\Ecuacion\EquationCalculate.cshtml.g.cs
+C:\Users\eljos\source\repos\Tarea1\Tarea1\obj\Debug\netcoreapp2.2\Razor\Views\TablaMult\MultiplicationTables.cshtml.g.cs
