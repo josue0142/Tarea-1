@@ -8,7 +8,7 @@ namespace Tarea1.Controllers
 {
     public class TablaMultController : Controller
     {
-        public IActionResult Index()
+        public IActionResult MultiplicationTables()
         {
             return View();
         }
